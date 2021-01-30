@@ -1,0 +1,14 @@
+.all_chatroom {
+  height: 57.5vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.all_chatroom::-webkit-scrollbar {
+  display: none;
+}
+
+.left-side-allChat {
+  /* border-right: 1px solid #17a2b8;
+  box-sizing: border-box; */
+  background-color: rgb(231, 231, 231);
+}

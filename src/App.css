@@ -1,3 +1,24 @@
 * {
   margin: 0;
 }
+body {
+  background-color: darkgrey;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chatapp {
+  box-shadow: -1px 4px 20px -6px #111;
+  height: 80vh;
+  width: 100%;
+  background-color: white;
+}
+
+/* .left-side {
+  border-right: 1px solid red;
+} */
